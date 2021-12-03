@@ -1,0 +1,99 @@
+h1 {
+	color: black;
+	text-align: center;
+}
+ .title1 {
+ 	color: white;
+ }
+
+h2 {
+	color: orange;
+	font-family: 'Outfit', sans-serif;
+	font-size: 40px;
+	text-align: center;
+}
+p {
+	color: black;
+	font-size: 20px;
+}
+body {
+	font-family: 'Outfit', sans-serif;
+	text-align: center;
+	color:black;
+	background-color:white;
+	background-image:url(images/beautiful-aerial-view-of-mighty-alps.jpg);
+
+}
+
+img{
+	width: 200px;
+	border-radius:30px;
+}
+
+
+.bg_grey{
+	style="filter:alpha(opacity=50); opacity:0.5;">
+	width: 900px;
+	padding: 30px;
+	margin: 10px auto;
+}
+
+
+.banner{
+	background-color: white;
+	height: 450px;
+	width: 900px;
+	padding: 30px;
+	margin: 20px auto;
+	box-shadow: 5px 5px 5px lightgrey;
+}
+
+.parcours{
+	background-color: white;
+	height: 200px;
+	width: 900px;
+	padding: 30px;
+	margin: 10px auto;
+	box-shadow: 5px 5px 5px lightgrey;
+
+}
+
+.bouton a {
+display:block;
+width:150px;
+line-height:50px;
+text-align:center;
+vertical-align:middle;
+background:url(images/Marketing digital.pdf) no-repeat;
+color:black;
+text-decoration:none;
+}
+.bouton a:hover {
+background:url(images/Marketing digital.pdf) no-repeat;
+}
+
+.experience{
+	background-color: white;
+	height: 300px;
+	width: 900px;
+	padding: 30px;
+	margin: 20px auto;
+	box-shadow: 5px 5px 5px lightgrey;
+}
+
+.contacter{
+	background-color: white;
+	height: 200px;
+	width: 900px;
+	padding: 30px;
+	margin: 20px auto;
+	box-shadow: 5px 5px 5px lightgrey;
+}
+
+
+
+li {
+	font-size: 20px;
+}
+
+
